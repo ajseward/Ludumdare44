@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 42b9adb791bf461db660aeb2738aa98d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeathCurrencyPrefab: {fileID: 7915779236833322187, guid: 6a15cceae487a1e408f26decf82dfb31,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
